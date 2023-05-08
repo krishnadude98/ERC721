@@ -1,4 +1,4 @@
-# Marketplace Contract to sell erc20 tokens
+# NFT Contract to create ERC721 Tokens
 
 ## Description
 
